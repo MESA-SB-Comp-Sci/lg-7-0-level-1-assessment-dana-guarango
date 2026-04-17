@@ -22,7 +22,11 @@ h1 {
 .main-styles {
     background-color: #f5f5f5;
     padding: 24px;
-    height: 600px;
+    height: 600px
+}
+
+.main-styles {
+    height: 100vh;
 }
 
 h2 {
@@ -36,7 +40,7 @@ p {
 }
 
 img {
-    width: 800px;
+    width: 50vh;
     display: block;
     margin-bottom: 16px;
 }
